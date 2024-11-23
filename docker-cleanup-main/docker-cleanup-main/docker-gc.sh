@@ -1,8 +1,7 @@
 #!/bin/sh
 
 #---------------------------------------------#
-# Author: Adam WezvaTechnologies
-# Call/Whatsapp: +91-9739110917
+# Author: Praveen
 #---------------------------------------------#
 
 DOCKER="/usr/bin/docker"
